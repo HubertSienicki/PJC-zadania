@@ -1,0 +1,14 @@
+﻿  Rozwiazania_cwiczenia3.cpp
+D:\Projects\PJC-zadania\Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazania_cwiczenia3.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+  Rozwiazanie_Cwiczenia_2.cpp
+D:\Projects\PJC-zadania\Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2.cpp(26,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\PJC-zadania\Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2.cpp(39,27): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\PJC-zadania\Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2.cpp(45,43): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\PJC-zadania\Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2.cpp(58,27): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\PJC-zadania\Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2.cpp(68,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\PJC-zadania\Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2.cpp(82,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\PJC-zadania\Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2.cpp(115,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\PJC-zadania\Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2.cpp(122,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\PJC-zadania\Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Rozwiazanie_Cwiczenia_2.cpp(124,27): warning C4018: '<': signed/unsigned mismatch
+Rozwiazanie_Cwiczenia_2.obj : error LNK2005: _main already defined in Rozwiazania_cwiczenia3.obj
+D:\Projects\PJC-zadania\Cwiczenia_2\Rozwiazanie_Cwiczenia_2\Release\Rozwiazanie_Cwiczenia_2.exe : fatal error LNK1169: one or more multiply defined symbols found
